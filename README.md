@@ -1,2 +1,2 @@
 # alura-git
-Curso Git Alura
+Lista de cursos para controlar no GIT
